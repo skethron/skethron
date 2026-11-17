@@ -40,7 +40,7 @@
 <h2 align="center">🚀 Projetos</h2>
 
 <p align="center">
-  <strong>VigiAuto</strong>
+  <a href="https://github.com/skethron/VigiAuto"><strong>VigiAuto</strong></a>
   <br>
   Aplicativo Android para leitura automática de placas de veículos diretamente no aparelho, sem depender de
   APIs externas. Desenvolvido em Kotlin com Jetpack Compose, usa modelos ONNX (YOLOv9 + OCR) para detectar
